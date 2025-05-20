@@ -1,0 +1,28 @@
+1. Obiecte (minim 8)
+User (client)
+Restaurant
+Produs
+CategorieProdus
+Comanda
+Sofer
+Adresa
+Recenzie
+MetodaPlata
+
+2. Acțiuni posibile (minim 10)
+Creare cont nou
+Logare 
+Delogare
+Afișare restaurante disponibile
+Afișare meniu restaurant
+Filtrare produse după categorie
+Adăugare recenzie
+Vizualizeaza recenziile unui restaurant
+Adăugare produs în coș
+Plasare comandă
+Vizualizare comenzi anterioare ale userului
+Vizualizare comenzi restaurant
+Adaugare sofer
+
+
+
